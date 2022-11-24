@@ -1,5 +1,5 @@
-# DESPLIEGUE EN LA NUBE
-# https://nodemcu-prograinternet.herokuapp.com/
+#NodeMCU ESP32 y DHT22 sensor
+## https://nodemcu-prograinternet.herokuapp.com/
 
 ## Integrantes:
 ### CARDENAS CASTAÑEDA, JOSÉ ANTONIO. 218744864.
