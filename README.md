@@ -1,4 +1,4 @@
-#NodeMCU ESP32 y DHT22 sensor
+## NodeMCU ESP32 y DHT22 sensor
 ## https://nodemcu-prograinternet.herokuapp.com/
 
 ## Integrantes:
