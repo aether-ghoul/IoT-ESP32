@@ -1,4 +1,4 @@
-# DESPLIEGUE EN LA NUBE:
+# DESPLIEGUE EN LA NUBE
 # https://nodemcu-prograinternet.herokuapp.com/
 
 ## Integrantes:
