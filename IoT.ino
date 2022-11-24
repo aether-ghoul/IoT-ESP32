@@ -4,10 +4,9 @@
 #include "Adafruit_Sensor.h"
 #include "DHT.h"
 
-//ngrok http http://192.168.68.112:80
 //Credenciales de la Red WiFi local
-char* ssid = "Aether Deco";
-char* password = "Casa1409";
+char* ssid = "NOMBRE_DE_TU_RED";
+char* password = "CLAVE_DE_TU_RED";
 
 //Pin digital
 #define DHTPIN 15
